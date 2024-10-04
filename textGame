@@ -209,3 +209,5 @@ if (damage>0.5):
 	print("It has been destroyed!\nPlayer 2 wins!\n\n")
 else:
     print("It's still afloat!\nPlayer 1 wins!\n\n")
+
+//I don't know who to credit for all this, but I've forked, run, tested, and documented it since it was created when the IBM qbit process was < 72 qbits during my IBM educational Q experience
